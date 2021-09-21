@@ -2,3 +2,5 @@ perdó m'havia avançat
 
 
 segon pas de l'exercici: fer un canvi a aquest arxiu des de la branch1
+
+no tinc cap conflicte, a veure ara...
